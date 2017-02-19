@@ -5,13 +5,24 @@ from django.views.generic import ListView
 # Create your views here.
 
 def posts_home(request):
-    return HttpResponse("<h1>Home</h1>")
+    data = {
+        "name": "home",
+        "age": "18",
+    }
+    return render(request, "base.html", data)
 
 def posts_create(request):
-    return HttpResponse("<h1>posts_create</h1>")
+    data = {
+        "name": "create",
+        "age": "28",
+    }
+    return render(request, "index.html", data)
 
 def posts_detail(request):
-    return HttpResponse("<h1>posts_detail</h1>")
+    context = {
+        "name": "detail"
+    }
+    return render(request, "index.html", context)
 
 def posts_update(request):
     return HttpResponse("<h1>posts_update</h1>")
