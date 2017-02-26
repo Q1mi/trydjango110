@@ -1,11 +1,14 @@
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse
 from django.views.generic import ListView
+from . import models
 
 # Create your views here.
 
 def posts_home(request):
+    queryset = models.Post.objects.all()
     data = {
+        "queryset": queryset,
         "name": "home",
         "age": "18",
     }
@@ -19,10 +22,13 @@ def posts_create(request):
     return render(request, "index.html", data)
 
 def posts_detail(request):
-    context = {
-        "name": "detail"
+    # obj = models.Post.objects.get(id=1)
+    obj = get_object_or_404(models.Post, id=3)
+
+    data = {
+        "obj": obj
     }
-    return render(request, "index.html", context)
+    return render(request, "detail.html", data)
 
 def posts_update(request):
     return HttpResponse("<h1>posts_update</h1>")
