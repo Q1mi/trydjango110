@@ -1,7 +1,9 @@
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import render, get_object_or_404, redirect
 from django.http import HttpResponse
 from django.views.generic import ListView
 from . import models
+from django.urls import reverse
+
 
 # Create your views here.
 
@@ -13,6 +15,25 @@ def posts_home(request):
         "age": "18",
     }
     return render(request, "base.html", data)
+    # return redirect(reverse("detail", kwargs={"id": 3}))
+    # return redirect("detail", 3)
+    # return redirect("/post/3/")
+
+
+def posts_detail(request, id=None):
+    # obj = models.Post.objects.get(id=1)
+    obj = get_object_or_404(models.Post, id=id)
+
+    data = {
+        "obj": obj
+    }
+    return render(request, "detail.html", data)
+
+
+
+
+
+
 
 def posts_create(request):
     data = {
@@ -20,15 +41,6 @@ def posts_create(request):
         "age": "28",
     }
     return render(request, "index.html", data)
-
-def posts_detail(request):
-    # obj = models.Post.objects.get(id=1)
-    obj = get_object_or_404(models.Post, id=3)
-
-    data = {
-        "obj": obj
-    }
-    return render(request, "detail.html", data)
 
 def posts_update(request):
     return HttpResponse("<h1>posts_update</h1>")

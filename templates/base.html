@@ -58,7 +58,8 @@
 
         {% for obj in queryset %}
           <div class="blog-post">
-            <h2 class="blog-post-title">{{ obj.title }}</h2>
+            <h2 class="blog-post-title"><a href="{% url 'post:detail' id=obj.id %}">{{ obj.title }}</a></h2>
+            <!-- <h2 class="blog-post-title"><a href="{{ obj.get_absolute_url }}">{{ obj.title }}</a></h2> -->
             <p class="blog-post-meta">{{ obj.timestamp }}<a href="#">Mark</a></p>
 
             <p>{{ obj.content }}</p>

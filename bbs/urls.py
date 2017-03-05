@@ -22,6 +22,7 @@ from posts import urls as posts_urls
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^post/', include(posts_urls)),
+    url(r'^post/', include(posts_urls, namespace="post")),
+    # url(r'^book/', include(books_urls, namespace="books")),
     # url(r'^home/$', views.PostList.as_view()),
 ]
