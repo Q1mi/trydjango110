@@ -2,6 +2,7 @@ from django.shortcuts import render, get_object_or_404, redirect
 from django.http import HttpResponse
 from django.views.generic import ListView
 from . import models
+from . import forms
 from django.urls import reverse
 
 
@@ -30,17 +31,20 @@ def posts_detail(request, id=None):
     return render(request, "detail.html", data)
 
 
-
-
-
-
-
 def posts_create(request):
+    print(request.POST)
+    form = forms.PostForm(request.POST or None)
+    if form.is_valid():
+        instance = form.save()
     data = {
-        "name": "create",
-        "age": "28",
+        "form": form,
     }
-    return render(request, "index.html", data)
+    return render(request, "create.html", data)
+
+
+
+
+
 
 def posts_update(request):
     return HttpResponse("<h1>posts_update</h1>")
