@@ -1,0 +1,762 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"Po",
+				"Post"
+			],
+			[
+				"Post",
+				"post的视图类"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"STA",
+				"staticfiles"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"exi",
+				"exit_flag"
+			],
+			[
+				"S",
+				"Second\t Ɩ"
+			],
+			[
+				"y",
+				"y\t ν"
+			],
+			[
+				"s",
+				"start\ttime.Time ν"
+			],
+			[
+				"A",
+				"After\t<-chan time.Time ƒ"
+			],
+			[
+				"func",
+				"func main\tfunc main {...} ʂ"
+			],
+			[
+				"P",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"fun",
+				"func main\tfunc main {...} ʂ"
+			],
+			[
+				"G",
+				"GOMAXPROCS\tint ƒ"
+			],
+			[
+				"i",
+				"i\t ν"
+			],
+			[
+				"st",
+				"str\tstring ν"
+			],
+			[
+				"Write",
+				"WriteString\tn int, err error ƒ"
+			],
+			[
+				"ch",
+				"chMain\tchan string ν"
+			],
+			[
+				"pr",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"new",
+				"newline"
+			],
+			[
+				"Pr",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"W",
+				"WriteByte\terror ƒ"
+			],
+			[
+				"Fpr",
+				"Fprintf\tn int, err error ƒ"
+			],
+			[
+				"Prin",
+				"Printf\tn int, err error ƒ"
+			],
+			[
+				"F",
+				"Fatalf\t ƒ"
+			],
+			[
+				"main",
+				"main\tmain"
+			],
+			[
+				"res",
+				"result\tIssuesSearchResult ν"
+			],
+			[
+				"Status",
+				"StatusOK\t Ɩ"
+			],
+			[
+				"RE",
+				"Request\tstruct ʈ"
+			],
+			[
+				"Han",
+				"HandleFunc\t ƒ"
+			],
+			[
+				"E",
+				"Exit\t ƒ"
+			],
+			[
+				"Std",
+				"Stderr\t*os.File ν"
+			],
+			[
+				"e",
+				"Exit\t ƒ"
+			],
+			[
+				"Pri",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"St",
+				"Stdout\t*os.File ν"
+			],
+			[
+				"Fp",
+				"Fprintf\tn int, err error ƒ"
+			],
+			[
+				"Spr",
+				"Sprintf\tstring ƒ"
+			],
+			[
+				"io",
+				"ioutil\t package ρ"
+			],
+			[
+				"N",
+				"Now\ttime.Time ƒ"
+			],
+			[
+				"m",
+				"main\tmain"
+			],
+			[
+				"n",
+				"NewScanner\t*bufio.Scanner ƒ"
+			],
+			[
+				"im",
+				"import\timport (...) ʂ"
+			],
+			[
+				"f",
+				"f_items"
+			],
+			[
+				"en",
+				"end_line"
+			],
+			[
+				"user",
+				"user_info"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第一模块",
+			"settings":
+			{
+				"buffer_size": 1821,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第四模块",
+			"settings":
+			{
+				"buffer_size": 349,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/04/staff_table_editer/README",
+			"settings":
+			{
+				"buffer_size": 666,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/04/staff_table_editer/core/db_editer.py",
+			"settings":
+			{
+				"buffer_size": 7748,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/AutoGo.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 724.0,
+		"history":
+		[
+			"gosublime:",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110",
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/posts"
+	],
+	"file_history":
+	[
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/04/staff_table_editer/core/main.py",
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/posts/forms.py",
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/posts/models.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/09/day 9 hw/core/fabric.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/02/gou_wu_che.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/03/haproxy.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0042-郑岳-wx58bbfa2c9df23/01/826054b6642189ac3cf1095cba55b839b98846/three_menu.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0022-万丰华-FLOWERS_WAN/02/shopping_list.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0042-郑岳-wx58bbfa2c9df23/01/login/login.py",
+		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/posts/models.py",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/posts/views.py",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/templates/base.html",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/posts/urls.py",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/bbs/urls.py",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No15.md",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No14.md",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No13.md",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No12.md",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/templates/detail.html",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第一模块",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No04.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第三模块",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/templates/index.html",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/bbs/settings.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0011_张仁芳/day06/elective_system/core/MyLogging.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/07/234c4bd677f272f72502257323e9193693584e/day7作业/day7Homework版本2/core/client_homework.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/07/234c4bd677f272f72502257323e9193693584e/day7作业/readme7.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/03/haproxy.conf",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/03/haproxy_editer.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0024-曹凯-soideas/02/47c26be213dc7ff217a711cdff56b8c3aefb78/shopping-改.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0024-曹凯-soideas/02/47c26be213dc7ff217a711cdff56b8c3aefb78/name.json",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/07/day7Homework/core/server_homework.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/07/day7Homework/core/client_homework.py",
+		"/D/qimi_WorkSpace/django-rest-framework-master/docs/CNAME",
+		"/D/qimi_WorkSpace/django-rest-framework-master/docs/api-guide/generic-views.md",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No11.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第二模块",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/02/shopping cart.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/06/Day6作业/readme6.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/07/day7作业/readme7.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0023-李菲-ahlifei88/07/ftp/server/server_server.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/07/day7作业/core/main.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/06/Day6作业/core/main.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/07/FTP/bin/index.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/07/FTP/core/try_class.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/07/FTP/core/socket_client.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/07/FTP/core/socket_server.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0024-曹凯-soideas/03/haproxy.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0024-曹凯-soideas/02/购物车.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0035-张家睿-闲散旁若伍/04/员工信息表程序.py",
+		"/C/Users/qimi/Desktop/Blog Template for Bootstrap.htm",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No10.md",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No09.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0023-李菲-ahlifei88/06/crm/bin/main.py",
+		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/User/AutoGo.sublime-build",
+		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default.sublime-commands",
+		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
+		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
+		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0023-李菲-ahlifei88/06/crm/README.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第七模块",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第四模块",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第五模块",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day12_作业_学生选课系统/student_view.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/day11/readme.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/day11/rpc_client.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day13_堡垒机作业/readme.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day13_堡垒机作业/JumpServer/modules/utils.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day13_堡垒机作业/JumpServer/modules/actions.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day13_堡垒机作业/JumpServer/modules/views.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day13_堡垒机作业/JumpServer/bin/fuck_it.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day12_作业_学生选课系统/init_db.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day12_作业_学生选课系统/readme.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day12_作业_学生选课系统/admin_view.py",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No8.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0029-王欣宇-wxy731/day18/BBS_system/templates/index.html",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0031-张聃-魔鬼泪痕/day03/42c29cb33b7c6d77af8478d6de6956f2da33b2/three_week.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/day05/Day5计算器/calculator.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0025-张伟真-jeanGG_/04/emp_info",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0025-张伟真-jeanGG_/04/staff_main.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0025-张伟真-jeanGG_/04/README",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No9.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0031-张聃-魔鬼泪痕/day03/three_week.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0013_赵慧喆/day06/choose_course/readme.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0013_赵慧喆/day06/choose_course/core/loginv1.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/day08/ftp_server/core/myftp.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/day08/ftp_client/a",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/day08/ftp_client/ftp_client.py",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No7.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/day08/ftp_server/conf/zhangsan",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0031-张聃-魔鬼泪痕/day03/README.txt",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No6.md",
+		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/qimi/Desktop/virtualenvs/myenvs/mydjango.sublime-project",
+		"/C/Users/qimi/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/qimi_WorkSpace/virtualenvs/laowang/my_first_django/my_first_django/settings.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0023-李菲-ahlifei88/day04/c66edfc55f219d69178880aa9482dca8a70c3e/作业4/sql_v0.3.py",
+		"/N/README.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0023-李菲-ahlifei88/day04/作业4/sql.py",
+		"/C/Users/qimi/Desktop/考核作业.py",
+		"/D/qimi_WorkSpace/S12/PythonRedBook/BBS_WebChat/templates/index2.html",
+		"/C/Users/qimi/Desktop/Blog Template for Bootstrap_files/docs.min.js.下载",
+		"/C/Users/qimi/Desktop/x.py",
+		"/C/Users/qimi/Desktop/desktop.ini",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0007_胡方超/day12/Baolei_HFC/ormdb.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0013_赵慧喆/day07/choose_course/readme.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0013_赵慧喆/day07/choose_course/core/loginv1.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0007_胡方超/day12/Baolei_HFC/README.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0007_胡方超/day12/Baolei_HFC/ormaction.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0025-张伟真-jeanGG_/day03/HAproxy.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0025-张伟真-jeanGG_/day03/HAproxy.conf",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0025-张伟真-jeanGG_/day03/README.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0011_张仁芳/day10/52a919a2635e688957368934e057eefa929b4b.zip",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0023-李菲-ahlifei88/day03/作业3/README.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0023-李菲-ahlifei88/day03/作业3/haproxy_config.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0002_谭程熙/day11/rabbitmq_rpc/Readme.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0002_谭程熙/day11/rabbitmq_rpc/server/core/master.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0002_谭程熙/day11/rabbitmq_rpc/client/core/agent.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0002_谭程熙/day12/SimpleFortress/core/operating.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0002_谭程熙/day12/SimpleFortress/core/init_db.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0009_史祥/week4/Week4_staff_table/info_list.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0002_谭程熙/day12/SimpleFortress/core/server.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"r_loads",
+			"print",
+			"gain",
+			"chosen_class",
+			"delete",
+			"shutil",
+			"pyc",
+			"pwd_encrypt",
+			"os.exit",
+			"input_handle",
+			"go",
+			"nums1",
+			"credit_expense_log",
+			"logging",
+			"ascii",
+			"fmt",
+			"ctrl+d",
+			"ctrl+shift+k",
+			"fm",
+			"\"\n",
+			"\")\n",
+			"()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第一模块",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1686,
+								1563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1848.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第四模块",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/04/staff_table_editer/README",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/04/staff_table_editer/core/db_editer.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2829,
+								2815
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4452.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://D:\\Go_WorkSpace\\src":
+	{
+		"height": 124.0
+	},
+	"output.9o://D:\\Go_WorkSpace\\src\\ch1":
+	{
+		"height": 124.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 124.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 355.0
+	},
+	"output.exec":
+	{
+		"height": 183.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "trydjango110.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -32,16 +32,18 @@ def posts_detail(request, id=None):
 
 
 def posts_create(request):
-    print(request.POST)
+    print(request.POST)  # 获取到提交的数据
+    # title = request.POST.get("title")
+    # content = request.POST.get("content")
+    # instance = models.Post.create(title=title, content=content)
+    # instance.save()
     form = forms.PostForm(request.POST or None)
-    if form.is_valid():
-        instance = form.save()
+    if form.is_valid():  # 做数据有效性验证
+        instance = form.save()  # 存数据库
     data = {
-        "form": form,
+        "form": form
     }
     return render(request, "create.html", data)
-
-
 
 
 

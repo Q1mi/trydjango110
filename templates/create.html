@@ -1,5 +1,11 @@
 
-<form method="POST" action="">{% csrf_token%}
-    {{form.as_p}}
-    <input type="submit" value="提交">
+<!-- <form>
+    标题：<input type="text" name="title">
+    内容：<input type="text" name="content">
 </form>
+ -->
+
+<form method="POST" action="">{% csrf_token %}
+ {{ form.as_p}}
+ <input type="submit" value="提交">
+ </form>
