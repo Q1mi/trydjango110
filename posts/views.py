@@ -46,17 +46,24 @@ def posts_create(request):
     return render(request, "create.html", data)
 
 
+def posts_update(request, id=None):
+    obj = get_object_or_404(models.Post, id=id)
+    form = forms.PostForm(request.POST or None, instance=obj)
+    if form.is_valid():  # 做数据有效性验证
+        instance = form.save()  # 存数据库
+        return redirect(instance.get_absolute_url())
+    data = {
+        "form": form
+    }
+    return render(request, "create.html", data)
 
-
-def posts_update(request):
-    return HttpResponse("<h1>posts_update</h1>")
 
 def posts_delete(request):
     return HttpResponse("<h1>posts_delete</h1>")
+
 
 class PostList(ListView):
     """post的视图类"""
 
     def get(self, request):
         return HttpResponse("<h1>post的视图类</h1>")
-        
