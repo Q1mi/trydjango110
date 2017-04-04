@@ -4,6 +4,7 @@ from django.views.generic import ListView
 from . import models
 from . import forms
 from django.urls import reverse
+from django.contrib import messages
 
 
 # Create your views here.
@@ -51,6 +52,7 @@ def posts_update(request, id=None):
     form = forms.PostForm(request.POST or None, instance=obj)
     if form.is_valid():  # 做数据有效性验证
         instance = form.save()  # 存数据库
+        messages.add_message(request, messages.INFO, "帖子更新成功了！", extra_tags="success")
         return redirect(instance.get_absolute_url())
     data = {
         "form": form
@@ -58,8 +60,11 @@ def posts_update(request, id=None):
     return render(request, "create.html", data)
 
 
-def posts_delete(request):
-    return HttpResponse("<h1>posts_delete</h1>")
+def posts_delete(request, id=None):
+    obj = get_object_or_404(models.Post, id=id)
+    obj.delete()
+    # return redirect("post:list")  # 写url名字
+    return redirect("/post/")  # 直接写路径
 
 
 class PostList(ListView):
