@@ -9,8 +9,8 @@
     <meta name="author" content="">
     <link rel="icon" href="http://v3.bootcss.com/favicon.ico">
 
-    <title>Blog Template for Bootstrap</title>
-
+    <title>{% block title %}try django 1.10{% endblock title %}</title>
+    {% block styles %}
     <!-- Bootstrap core CSS -->
     <link href="/static/base/bootstrap.css" rel="stylesheet">
 
@@ -23,7 +23,7 @@
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="/static/base/ie-emulation-modes-warning.js"></script>
-
+    {% endblock styles %}
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -32,13 +32,6 @@
   </head>
 
   <body>
-{% if messages %}
-<ul class="messages">
-    {% for message in messages %}
-    <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
-    {% endfor %}
-</ul>
-{% endif %}
 
     <div class="blog-masthead">
       <div class="container">
@@ -52,6 +45,8 @@
       </div>
     </div>
 
+    {% include "messages_block.html" %}
+
     <div class="container">
 
       <div class="blog-header">
@@ -60,9 +55,10 @@
       </div>
 
       <div class="row">
-
+{% block blog_create_box %}
         <div class="col-sm-8 blog-main">
 
+{% block blog_list_box %}
         {% for obj in queryset %}
           <div class="blog-post">
             <h2 class="blog-post-title"><a href="{% url 'post:detail' id=obj.id %}">{{ obj.title }}</a></h2>
@@ -73,13 +69,14 @@
 
           </div><!-- /.blog-post -->
         {% endfor %} 
-
           <nav>
             <ul class="pager">
               <li><a href="#">Previous</a></li>
               <li><a href="#">Next</a></li>
             </ul>
           </nav>
+{% endblock blog_list_box %}
+
 
         </div><!-- /.blog-main -->
 
@@ -114,7 +111,7 @@
             </ol>
           </div>
         </div><!-- /.blog-sidebar -->
-
+{% endblock blog_create_box %}
       </div><!-- /.row -->
 
     </div><!-- /.container -->

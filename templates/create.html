@@ -1,11 +1,14 @@
-
+{% extends "base.html" %}
 <!-- <form>
     标题：<input type="text" name="title">
     内容：<input type="text" name="content">
 </form>
  -->
+{% block title %}创建新帖 |{{block.super}}{% endblock title %}
 
+{% block blog_create_box %}
 <form method="POST" action="">{% csrf_token %}
  {{ form.as_p}}
  <input type="submit" value="提交">
  </form>
+ {% endblock blog_create_box %}
