@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'django.contrib.staticfiles',
+    'django.contrib.staticfiles',  # Django管理静态文件的
     'posts',  # 把你创建的app加到这里来
 ]
 
@@ -120,10 +120,18 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
+# 前端页面用到的静态文件目录变量，推荐使用动态指定的方式
 STATIC_URL = '/static/'
 
+# 实际的静态文件存放目录
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, "static"),
+    os.path.join(BASE_DIR, "statics"),
+    # "/var/www/static",
 ]
 
+# 用于静态文件收集
 STATIC_ROOT = os.path.join(BASE_DIR, "static_assets")
+
+
+# 用户上传的文件存放目录
+MEDIA_ROOT = os.path.join(BASE_DIR, "media_assets")

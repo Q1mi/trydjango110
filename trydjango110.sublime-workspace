@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"c",
+				"conn"
+			],
+			[
 				"re",
 				"return"
 			],
@@ -243,122 +247,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "docs/No18.md",
-			"settings":
-			{
-				"buffer_size": 285,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0017-李磊-evanchn/01/passwd3.py",
-			"settings":
-			{
-				"buffer_size": 1156,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/staff-info/README",
-			"settings":
-			{
-				"buffer_size": 505,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/05/calc.py",
-			"settings":
-			{
-				"buffer_size": 2160,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/staff-info/bin/main.py",
-			"settings":
-			{
-				"buffer_size": 677,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/staff-info/core/select.py",
-			"settings":
-			{
-				"buffer_size": 2847,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/staff-info/core/db_handler.py",
-			"settings":
-			{
-				"buffer_size": 1209,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0017-李磊-evanchn/01/meu_evan.py",
-			"settings":
-			{
-				"buffer_size": 1398,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "docs/No19.md",
-			"settings":
-			{
-				"buffer_size": 827,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "bbs/settings.py",
-			"settings":
-			{
-				"buffer_size": 3273,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "posts/views.py",
-			"settings":
-			{
-				"buffer_size": 2115,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "templates/detail.html",
-			"settings":
-			{
-				"buffer_size": 3060,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "templates/base.html",
-			"settings":
-			{
-				"buffer_size": 4937,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -438,141 +326,138 @@
 	"expanded_folders":
 	[
 		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110",
-		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/bbs",
-		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/docs",
-		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/posts",
 		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/templates"
 	],
 	"file_history":
 	[
+		"/C/Users/qimi/Desktop/1 (1)/路文娟/作业/限制登录.py",
+		"/C/Users/qimi/Desktop/1 (1)/刘一/day1/day1.py",
+		"/C/Users/qimi/Desktop/1 (1)/刘丽娟/day01-作业.py",
+		"/C/Users/qimi/Desktop/1 (1)/刘磊/Day1/homework.py",
+		"/C/Users/qimi/Desktop/1 (1)/刘康/作业.py",
+		"/C/Users/qimi/Desktop/1 (1)/刘杰/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/刘继亮/σêÿτ╗ºΣ║«/user_auth.py",
+		"/C/Users/qimi/Desktop/1 (1)/刘浩/homework01/homework01.py",
+		"/C/Users/qimi/Desktop/1 (1)/刘昊/day1/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/刘海成/作业/登陆.py",
+		"/C/Users/qimi/Desktop/1 (1)/李永乐/作业/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/李少鹏/homework/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/李泉/day1/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/李坪宗/作业/user_login.py",
+		"/C/Users/qimi/Desktop/1 (1)/李富强/day-01/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/李昂/zuoye/Login.py",
+		"/C/Users/qimi/Desktop/1 (1)/金小健/hw/hw_user_login.py",
+		"/C/Users/qimi/Desktop/1 (1)/姜昊/基于文件存储的用户登录程序.py",
+		"/C/Users/qimi/Desktop/1 (1)/贾晓良/作业 - Day01/作业/ZLogin.py",
+		"/C/Users/qimi/Desktop/1 (1)/何鑫/day1-浣曢懌/task.py",
+		"/C/Users/qimi/Desktop/1 (1)/韩鹏宇/db",
+		"/C/Users/qimi/Desktop/1 (1)/韩鹏宇/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/韩佳龙/韩佳龙作业/User.py",
+		"/C/Users/qimi/Desktop/1 (1)/郭醒/db",
+		"/C/Users/qimi/Desktop/1 (1)/郭醒/login_v2.py",
+		"/C/Users/qimi/Desktop/1 (1)/郭少龙/day1/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/郭少龙/day1/readme",
+		"/C/Users/qimi/Desktop/1 (1)/郭立满/3次用户登录.py",
+		"/C/Users/qimi/Desktop/1 (1)/龚旭/龚旭.py",
+		"/C/Users/qimi/Desktop/1 (1)/冯建博/day01 冯建博/user_login.py",
+		"/C/Users/qimi/Desktop/1 (1)/冯洋/day1 作业.py",
+		"/C/Users/qimi/Desktop/1 (1)/何金刚/day01.py",
+		"/C/Users/qimi/Desktop/1 (1)/胡晓飞/Readme",
+		"/C/Users/qimi/Desktop/1 (1)/胡晓飞/login.user",
+		"/C/Users/qimi/Desktop/1 (1)/贾晓良/作业 - Day01/ReadMe.txt",
+		"/C/Users/qimi/Desktop/1 (1)/贾晓良/作业 - Day01/作业/zlogindb",
+		"/C/Users/qimi/Desktop/1 (1)/姜昊/博客地址.txt",
+		"/C/Users/qimi/Desktop/1 (1)/蒋世通/s17-work.txt",
+		"/C/Users/qimi/Desktop/1 (1)/李富强/day-01/Readme.md",
+		"/C/Users/qimi/Desktop/1 (1)/李坪宗/作业/博客.txt",
+		"/C/Users/qimi/Desktop/1 (1)/李少鹏/homework/readme",
+		"/C/Users/qimi/Desktop/1 (1)/林正军/Readme.txt",
+		"/C/Users/qimi/Desktop/1 (1)/刘浩/homework01/readme.txt",
+		"/C/Users/qimi/Desktop/1 (1)/刘康/readme.md",
+		"/C/Users/qimi/Desktop/1 (1)/刘磊/Day1/db",
+		"/C/Users/qimi/Desktop/1 (1)/刘丽娟/day01-README.md",
+		"/C/Users/qimi/Desktop/1 (1)/刘一/day1/db",
+		"/C/Users/qimi/Desktop/1 (1)/刘康/db.txt",
+		"/C/Users/qimi/Desktop/1 (1)/郭少龙/day1/db",
+		"/C/Users/qimi/Desktop/1 (1)/韩佳龙/韩佳龙作业/db1",
+		"/C/Users/qimi/Desktop/1 (1)/何金刚/user.txt",
+		"/C/Users/qimi/Desktop/1 (1)/李富强/day-01/name_list",
+		"/C/Users/qimi/Desktop/1 (1)/李坪宗/作业/user_db",
+		"/C/Users/qimi/Desktop/1 (1)/李泉/day1/user.db",
+		"/C/Users/qimi/Desktop/1 (1)/李少鹏/homework/db",
+		"/C/Users/qimi/Desktop/1 (1)/李永乐/作业/db.txt",
+		"/C/Users/qimi/Desktop/1 (1)/刘继亮/σêÿτ╗ºΣ║«/src_file",
+		"/C/Users/qimi/Desktop/1 (1)/刘杰/user.txt",
+		"/C/Users/qimi/Desktop/1 (1)/韩佳龙/韩佳龙作业/db.txt",
+		"/C/Users/qimi/Desktop/1 (1)/丁新/丁新day1/readme.md",
+		"/C/Users/qimi/Desktop/1 (1)/丁新/丁新day1/user_login.py",
+		"/C/Users/qimi/Desktop/1 (1)/范春成/day01/day01-readme-2017.4.23.md",
+		"/C/Users/qimi/Desktop/1 (1)/范春成/day01/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/冯建博/day01 冯建博/readme.txt",
+		"/C/Users/qimi/Desktop/1 (1)/冯建博/day01 冯建博/db",
+		"/C/Users/qimi/Desktop/1 (1)/成飞/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/陈涛/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/常站青/常战青-作业-day1/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/鲍金强/作业/login.py",
+		"/C/Users/qimi/Desktop/1 (1)/蔡光银/蔡光银_作业_day01/login3.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0011_张仁芳/16/edit_form/edit_form.html",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/14/myjd.html",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0042-郑岳-wx58bbfa2c9df23/04/员工信息表/员工信息表.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/07/ftp/README.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/07/ftp/server/core/bin/main.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/07/ftp/server/core/bin/models.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/06/select-course/README",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/06/select-course/core/grade.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/06/select-course/core/school.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/06/select-course/manager/manager.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/06/select-course/core/teacher.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/06/select-course/conf/settings.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/06/select-course/bin/main.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/06/select-course/core/course.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/14/day14购物商城静态页面/index.html",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0011_张仁芳/15/jd/login.html",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第一模块",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0011_张仁芳/15/jd/index.html",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0013_赵慧喆/08/day 8 FTP/readme.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0013_赵慧喆/08/day 8 FTP/FTP_Server/core/main.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/06/crm/README",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/06/crm/core/bin/main.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/06/crm/core/bin/views.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/06/crm/crm.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/06/crm/core/bin/student_views.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/06/crm/core/bin/teacher_views.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/06/crm/core/bin/db_handler.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0042-郑岳-wx58bbfa2c9df23/04/员工信息表/user_info",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0042-郑岳-wx58bbfa2c9df23/04/员工信息表/readme",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/06/crm/core/conf/settings.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/06/crm/core/bin/models.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/06/crm/db/school_crm.bak",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/06/crm/db/school_crm.dir",
+		"/C/Users/qimi/Desktop/linxi.py",
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/docs/No19.md",
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/docs/No20.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/12/day12作业/student_manage_system.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/12/day12作业/Day12_stu_sys_manage/conf/settings.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/12/day12作业/Day12_stu_sys_manage/bin/start_sys.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/12/day12作业/Day12_stu_sys_manage/core/operate_table.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/12/day12作业/Day12_stu_sys_manage/core/manage_sys.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/12/day12作业/Day12_stu_sys_manage/core/create_table.py",
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/templates/base.html",
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/templates/messages_block.html",
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/templates/create.html",
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/templates/detail.html",
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/posts/views.py",
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/docs/No18.md",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0017-李磊-evanchn/01/passwd3.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/staff-info/README",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/05/calc.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/staff-info/bin/main.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/staff-info/core/select.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/staff-info/core/db_handler.py",
+		"/D/qimi_WorkSpace/StudentsOf51CTO/0017-李磊-evanchn/01/meu_evan.py",
 		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/bbs/settings.py",
 		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/bbs/urls.py",
-		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/posts/urls.py",
-		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/docs/No17.md",
-		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/docs/No16.md",
-		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/docs/No15.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/12/day12 hw/README.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/12/day12 hw/bin/start.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/12/day12 hw/modules/actions.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/12/day12 hw/modules/models.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/12/day12 hw/modules/student_center.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/core/add_staff.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/core/select.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/db/db_handler.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/bin/main.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/README",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/bin/staff_info.db",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/bin/staff.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/db/id.json",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/12/day12 hw/modules/teacher_center.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/新建文件夹/db/db_handler.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0013_赵慧喆/day07/simple FTP/socket.sever.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/05/calculator/core/main.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/05/atm/README",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/05/atm/core/shopping.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/05/atm/core/user_manager.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/05/atm/conf/settings.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0013_赵慧喆/day07/simple FTP/socket_client.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0014-汪琼-asan713/06/06-选课系统/courseSelectionSys/models.py",
-		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/posts/forms.py",
-		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/posts/models.py",
-		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/templates/create.html",
-		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/posts/views.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0035-张家睿-闲散旁若伍/06/选课系统/core/main.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/11/day 11 hw rabbitmq/rpc_server/server.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/11/day 11 hw rabbitmq/rpc_client/core/main.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0035-张家睿-闲散旁若伍/07/FTP/readme",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0035-张家睿-闲散旁若伍/07/FTP/core/server.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0014-汪琼-asan713/06/06-选课系统/courseSelectionSys/README.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0014-汪琼-asan713/06/06-选课系统/courseSelectionSys/studentView.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0014-汪琼-asan713/06/06-选课系统/courseSelectionSys/courseSelectionSystem.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0014-汪琼-asan713/06/06-选课系统/courseSelectionSys/commonFunc.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/11/day11作业/rpc客户端/rpc_client.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0011_张仁芳/12/README.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0011_张仁芳/12/core/MyLogging.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0011_张仁芳/12/core/tables.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0011_张仁芳/12/core/main.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/11/day11作业/rpc服务器端/core/rpc_server.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0035-张家睿-闲散旁若伍/07/FTP/core/main.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0035-张家睿-闲散旁若伍/06/选课系统/readme",
-		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/docs/No07.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第一模块",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第四模块",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/04/staff_table_editer/README",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/04/staff_table_editer/core/db_editer.py",
-		"/C/Users/qimi/Desktop/Starter Template for Bootstrap.html",
-		"/C/Users/qimi/Desktop/test.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/04/staff_table_editer/core/main.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/09/day 9 hw/core/fabric.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/02/gou_wu_che.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/03/haproxy.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0042-郑岳-wx58bbfa2c9df23/01/826054b6642189ac3cf1095cba55b839b98846/three_menu.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0022-万丰华-FLOWERS_WAN/02/shopping_list.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0042-郑岳-wx58bbfa2c9df23/01/login/login.py",
-		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/posts/models.py",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/posts/views.py",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/templates/base.html",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/posts/urls.py",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/bbs/urls.py",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No15.md",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No14.md",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No13.md",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No12.md",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/templates/detail.html",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No04.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第三模块",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/templates/index.html",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/bbs/settings.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0011_张仁芳/day06/elective_system/core/MyLogging.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/07/234c4bd677f272f72502257323e9193693584e/day7作业/day7Homework版本2/core/client_homework.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/07/234c4bd677f272f72502257323e9193693584e/day7作业/readme7.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/03/haproxy.conf",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/03/haproxy_editer.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0024-曹凯-soideas/02/47c26be213dc7ff217a711cdff56b8c3aefb78/shopping-改.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0024-曹凯-soideas/02/47c26be213dc7ff217a711cdff56b8c3aefb78/name.json",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/07/day7Homework/core/server_homework.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/07/day7Homework/core/client_homework.py",
-		"/D/qimi_WorkSpace/django-rest-framework-master/docs/CNAME",
-		"/D/qimi_WorkSpace/django-rest-framework-master/docs/api-guide/generic-views.md",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No11.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第二模块",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0040-邓文臻-dwz35296/02/shopping cart.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/06/Day6作业/readme6.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/07/day7作业/readme7.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0023-李菲-ahlifei88/07/ftp/server/server_server.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/07/day7作业/core/main.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0030-肖乃强-tom7481079/06/Day6作业/core/main.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/07/FTP/bin/index.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/07/FTP/core/try_class.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/07/FTP/core/socket_client.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0033-李晴-janelleliqing/07/FTP/core/socket_server.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0024-曹凯-soideas/03/haproxy.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0024-曹凯-soideas/02/购物车.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0035-张家睿-闲散旁若伍/04/员工信息表程序.py",
-		"/C/Users/qimi/Desktop/Blog Template for Bootstrap.htm",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No10.md",
-		"/C/Users/qimi/Desktop/virtualenvs/myenvs/trydjango110/docs/No09.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0023-李菲-ahlifei88/06/crm/bin/main.py",
-		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/User/AutoGo.sublime-build",
-		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
-		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default.sublime-commands",
-		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
-		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
-		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/qimi/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0023-李菲-ahlifei88/06/crm/README.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第七模块",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/Python分模块测试题库/第五模块",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day12_作业_学生选课系统/student_view.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/day11/readme.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/day11/rpc_client.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day13_堡垒机作业/readme.md",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day13_堡垒机作业/JumpServer/modules/utils.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day13_堡垒机作业/JumpServer/modules/actions.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day13_堡垒机作业/JumpServer/modules/views.py",
-		"/D/qimi_WorkSpace/StudentsOf51CTO/0003_王兴汉/Day13_堡垒机作业/JumpServer/bin/fuck_it.py"
+		"/C/Users/qimi/Desktop/virtualenvs/try110/trydjango110/posts/urls.py"
 	],
 	"find":
 	{
@@ -631,397 +516,8 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "docs/No18.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 285,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								106,
-								93
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0017-李磊-evanchn/01/passwd3.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1156,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								672,
-								677
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1107.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/staff-info/README",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 505,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								474,
-								474
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/05/calc.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2160,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2160,
-								2160
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 369.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/staff-info/bin/main.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 677,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 123.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/staff-info/core/select.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2847,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 246.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0039-高祥-vegaoqiang/04/staff-info/core/db_handler.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1209,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								748,
-								748
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/D/qimi_WorkSpace/StudentsOf51CTO/0017-李磊-evanchn/01/meu_evan.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1398,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								505,
-								481
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 492.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "docs/No19.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 827,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								606,
-								606
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 369.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "bbs/settings.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3273,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2022,
-								1969
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2214.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "posts/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2115,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1660,
-								1660
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1845.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "templates/detail.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3060,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2046,
-								2046
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1599.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "templates/base.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4937,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 984.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1121,7 +617,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 272.0,
 	"status_bar_visible": true,
 	"template_settings":
