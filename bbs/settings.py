@@ -135,3 +135,5 @@ STATIC_ROOT = os.path.join(BASE_DIR, "static_assets")
 
 # 用户上传的文件存放目录
 MEDIA_ROOT = os.path.join(BASE_DIR, "media_assets")
+
+PER_PAGE = 5

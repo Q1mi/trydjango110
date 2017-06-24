@@ -1,18 +1,34 @@
 from django.shortcuts import render, get_object_or_404, redirect
+from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.http import HttpResponse
 from django.views.generic import ListView
 from . import models
 from . import forms
 from django.urls import reverse
 from django.contrib import messages
+from django.conf import settings
 
 
 # Create your views here.
 
 def posts_home(request):
-    queryset = models.Post.objects.all()
+    queryset = models.Post.objects.all()  # .order_by("-timestamp")
+
+    paginator = Paginator(queryset, settings.PER_PAGE) # 每页显示多少条数据
+
+    page = request.GET.get('page')  # 从请求中获取page参数，获取request请求的具体页数
+    try:
+        contacts = paginator.page(page)  # 如果按照page能取到数据
+    except PageNotAnInteger:
+        # 取到page不是一个有效的数字 
+        contacts = paginator.page(1)  # 返回第一页的内容
+    except EmptyPage:
+        # 但是page 超出了有效的页码范围
+        contacts = paginator.page(paginator.num_pages)  # 返回最后一页的内容
+
+
     data = {
-        "queryset": queryset,
+        "queryset": contacts,
         "name": "home",
         "age": "18",
     }

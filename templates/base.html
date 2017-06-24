@@ -78,12 +78,27 @@
 
           </div><!-- /.blog-post -->
         {% endfor %} 
-          <nav>
+<!--           <nav>
             <ul class="pager">
               <li><a href="#">Previous</a></li>
               <li><a href="#">Next</a></li>
             </ul>
-          </nav>
+          </nav> -->
+          <div class="pagination">
+              <span class="step-links">
+                  {% if queryset.has_previous %}
+                      <a href="?page={{ queryset.previous_page_number }}">上一页</a>
+                  {% endif %}
+
+                  <span class="current">
+                      第{{ queryset.number }}页，共{{ queryset.paginator.num_pages }}页。
+                  </span>
+
+                  {% if queryset.has_next %}
+                      <a href="?page={{ queryset.next_page_number }}">下一页</a>
+                  {% endif %}
+              </span>
+          </div>
 {% endblock blog_list_box %}
 
 
