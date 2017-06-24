@@ -27,4 +27,4 @@ QQ群：184063624
     └── manage.py  # 管理文件
     
 ## 视频地址
-[视频教程优酷链接](http://i.youku.com/ipythons)
+[视频教程优酷链接](http://i.youku.com/ipython)
